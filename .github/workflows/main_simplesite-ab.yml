@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'simplesite-ab'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0C753B2F9B6C4E1199BBC380DA486927 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C3F02D4A13074FC6A9EFA3B6DA9E13B7 }}
           package: .
